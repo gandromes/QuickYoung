@@ -1,4 +1,4 @@
-<p style="white-space: pre; color: red; text-align: center;">
+<p style="white-space: pre; color: red; text-align: center; align: center;">
 ◯⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀　　.　　　　　　　　.　　　　　.　　　　　　　　　　。　　.　　　　　.　　　　　.　　⠀　　　　　　◯<br/>
   　　　　.　　　　　　　　　　　　　　.  ⠀。　　　　　　　　　　　　　　　　　ﾟ　　　.　　　　　　　　　　　　　　.           <br/>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 　　　　　　。　　　　　　　　.　　　.　  .　　　　　　　　　　ﾟ　　　.　　　,　　　　　　　　,  　　　.   <br/>
